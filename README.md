@@ -5,3 +5,5 @@
 1. Odin
 2. Dwa
 3. Tri
+
+![img](machhistory.jpg)
